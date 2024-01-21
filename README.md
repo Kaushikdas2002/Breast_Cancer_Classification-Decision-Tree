@@ -9,7 +9,7 @@ Breast cancer is a prevalent form of cancer that affects both men and women. Ear
 ## Results
 The model's performance on the test set is as follows:
 
-Accuracy: 95.6%
-Precision: 96%
-Recall: 96%
-F1 Score: 96%
+Accuracy: 95.6%  
+Precision: 96%  
+Recall: 96%  
+F1 Score: 96%  
